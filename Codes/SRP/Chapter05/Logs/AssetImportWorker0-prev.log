@@ -1,0 +1,227 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.1f1c1 (3e9f4b065a9d) revision 4104011'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home China; OS build 19042.1110; Version 2009; 64bit' Language: 'zh' Physical Memory: 65249 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Joker/Codes/SRP/Chapter05
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58061
+Successfully changed project path to: D:/Joker/Codes/SRP/Chapter05
+D:/Joker/Codes/SRP/Chapter05
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 19.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1c1 (3e9f4b065a9d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Joker/Codes/SRP/Chapter05/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   27.21.14.6172
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1c1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56880
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001465 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 20.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.517 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000535 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 26.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.718 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1298 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.6 MB.
+System memory in use after: 63.7 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1744.
+Total: 1.869800 ms (FindLiveObjects: 0.221100 ms CreateObjectMapping: 0.097400 ms MarkObjects: 1.495900 ms  DeleteObjects: 0.054300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/CustomRP/Runtime/CameraRenderer.cs
+  artifactKey: Guid(3c738f303cceaad4981c447dff5b7ec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Runtime/CameraRenderer.cs using Guid(3c738f303cceaad4981c447dff5b7ec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1a47d752cf8b7a977e312f2cfe1766e') in 0.019571 seconds
+  Import took 0.022062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.576582 seconds.
+  path: Assets/CustomRP/Runtime/CameraRenderer.Editor.cs
+  artifactKey: Guid(e638d18945f167744bc8c15ea0436912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Runtime/CameraRenderer.Editor.cs using Guid(e638d18945f167744bc8c15ea0436912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b94f45bac71f4e4164adc0aad37bf61b') in 0.001265 seconds
+  Import took 0.002792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009977 seconds.
+  path: Assets/CustomRP/Runtime/CameraRenderer.Editor.cs
+  artifactKey: Guid(e638d18945f167744bc8c15ea0436912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Runtime/CameraRenderer.Editor.cs using Guid(e638d18945f167744bc8c15ea0436912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b94f45bac71f4e4164adc0aad37bf61b') in 0.001135 seconds
+  Import took 0.002654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.073228 seconds.
+  path: Assets/CustomRP/Runtime/CustomRenderPipeline.cs
+  artifactKey: Guid(202b729131fbe7a41a3a821ff5d5c4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Runtime/CustomRenderPipeline.cs using Guid(202b729131fbe7a41a3a821ff5d5c4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55d70ecf9d87cb4c47743c32da6c20bb') in 0.001254 seconds
+  Import took 0.002895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003364 seconds.
+  path: Assets/CustomRP/Runtime/CustomRenderPipeline.cs
+  artifactKey: Guid(202b729131fbe7a41a3a821ff5d5c4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Runtime/CustomRenderPipeline.cs using Guid(202b729131fbe7a41a3a821ff5d5c4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55d70ecf9d87cb4c47743c32da6c20bb') in 0.001311 seconds
+  Import took 0.003317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.749413 seconds.
+  path: Assets/CustomRP/Runtime/CustomRenderPipelineAsset.cs
+  artifactKey: Guid(e6ecaaae0ea91564f8e56d78be12afa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Runtime/CustomRenderPipelineAsset.cs using Guid(e6ecaaae0ea91564f8e56d78be12afa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b2538588a73051f40ac73c4ff1b6b96') in 0.001278 seconds
+  Import took 0.002874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003072 seconds.
+  path: Assets/CustomRP/Runtime/CustomRenderPipelineAsset.cs
+  artifactKey: Guid(e6ecaaae0ea91564f8e56d78be12afa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Runtime/CustomRenderPipelineAsset.cs using Guid(e6ecaaae0ea91564f8e56d78be12afa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b2538588a73051f40ac73c4ff1b6b96') in 0.001064 seconds
+  Import took 0.002551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.716529 seconds.
+  path: Assets/CustomRP/Editor/CustomShaderGUI.cs
+  artifactKey: Guid(b9b3ff998d195ab4ebea4d97c0a333aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Editor/CustomShaderGUI.cs using Guid(b9b3ff998d195ab4ebea4d97c0a333aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b89cf7f27cebee88435ab5e03fcf305a') in 0.001387 seconds
+  Import took 0.003143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008448 seconds.
+  path: Assets/CustomRP/Editor/CustomShaderGUI.cs
+  artifactKey: Guid(b9b3ff998d195ab4ebea4d97c0a333aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Editor/CustomShaderGUI.cs using Guid(b9b3ff998d195ab4ebea4d97c0a333aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b89cf7f27cebee88435ab5e03fcf305a') in 0.001225 seconds
+  Import took 0.002901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.703757 seconds.
+  path: Assets/CustomRP/Runtime/Lighting.cs
+  artifactKey: Guid(e7b6c8cbaefbee14dad19d910c99a277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Runtime/Lighting.cs using Guid(e7b6c8cbaefbee14dad19d910c99a277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a40a279e2fdc6699cf5ff69791961b3') in 0.001243 seconds
+  Import took 0.002853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004504 seconds.
+  path: Assets/CustomRP/Runtime/Lighting.cs
+  artifactKey: Guid(e7b6c8cbaefbee14dad19d910c99a277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Runtime/Lighting.cs using Guid(e7b6c8cbaefbee14dad19d910c99a277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a40a279e2fdc6699cf5ff69791961b3') in 0.001561 seconds
+  Import took 0.003607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.661130 seconds.
+  path: Assets/CustomRP/Examples/MeshBall.cs
+  artifactKey: Guid(fb87af560ab85c5499099d794d0d4d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Examples/MeshBall.cs using Guid(fb87af560ab85c5499099d794d0d4d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c15fe5b083daf529dc7ec2b95dfc3c63') in 0.001710 seconds
+  Import took 0.003622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005682 seconds.
+  path: Assets/CustomRP/Examples/MeshBall.cs
+  artifactKey: Guid(fb87af560ab85c5499099d794d0d4d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Examples/MeshBall.cs using Guid(fb87af560ab85c5499099d794d0d4d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c15fe5b083daf529dc7ec2b95dfc3c63') in 0.001352 seconds
+  Import took 0.003110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.715629 seconds.
+  path: Assets/CustomRP/Examples/PerObjectMaterialProperties.cs
+  artifactKey: Guid(567d30ddbc196b241a3f50699801ed6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Examples/PerObjectMaterialProperties.cs using Guid(567d30ddbc196b241a3f50699801ed6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac6ab576b81ce74fde1775326fd7b362') in 0.001543 seconds
+  Import took 0.003123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002117 seconds.
+  path: Assets/CustomRP/Examples/PerObjectMaterialProperties.cs
+  artifactKey: Guid(567d30ddbc196b241a3f50699801ed6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Examples/PerObjectMaterialProperties.cs using Guid(567d30ddbc196b241a3f50699801ed6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac6ab576b81ce74fde1775326fd7b362') in 0.001138 seconds
+  Import took 0.002647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.735833 seconds.
+  path: Assets/CustomRP/Runtime/Shadows.cs
+  artifactKey: Guid(05fa1d3aed2ff1e4cb944f3955126ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Runtime/Shadows.cs using Guid(05fa1d3aed2ff1e4cb944f3955126ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbe02c77f20aebe5fe5aafbd81282fbb') in 0.001228 seconds
+  Import took 0.002732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007235 seconds.
+  path: Assets/CustomRP/Runtime/Shadows.cs
+  artifactKey: Guid(05fa1d3aed2ff1e4cb944f3955126ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Runtime/Shadows.cs using Guid(05fa1d3aed2ff1e4cb944f3955126ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbe02c77f20aebe5fe5aafbd81282fbb') in 0.001084 seconds
+  Import took 0.002500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.790859 seconds.
+  path: Assets/CustomRP/Settings/ShadowSettings.cs
+  artifactKey: Guid(2c7f9766ff964454ab12d7c132e3cfef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Settings/ShadowSettings.cs using Guid(2c7f9766ff964454ab12d7c132e3cfef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '826a437d4f8e52943c0760a02a3aa187') in 0.001470 seconds
+  Import took 0.003223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/CustomRP/Settings/ShadowSettings.cs
+  artifactKey: Guid(2c7f9766ff964454ab12d7c132e3cfef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Settings/ShadowSettings.cs using Guid(2c7f9766ff964454ab12d7c132e3cfef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '826a437d4f8e52943c0760a02a3aa187') in 0.001031 seconds
+  Import took 0.002443 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

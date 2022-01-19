@@ -1,0 +1,147 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.1f1c1 (3e9f4b065a9d) revision 4104011'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home China; OS build 19042.1288; Version 2009; 64bit' Language: 'zh' Physical Memory: 65249 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/20Years/Codes/SRP/Chapter03
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62735
+Successfully changed project path to: D:/20Years/Codes/SRP/Chapter03
+D:/20Years/Codes/SRP/Chapter03
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 19.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1c1 (3e9f4b065a9d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/20Years/Codes/SRP/Chapter03/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   27.21.14.6172
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1c1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56852
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001489 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 19.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.508 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000725 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 20.11 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.681 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1296 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.3 MB.
+System memory in use after: 63.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1740.
+Total: 1.549800 ms (FindLiveObjects: 0.181100 ms CreateObjectMapping: 0.041900 ms MarkObjects: 1.274600 ms  DeleteObjects: 0.051600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/CustomRP/Runtime/CameraRenderer.cs
+  artifactKey: Guid(3c738f303cceaad4981c447dff5b7ec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Runtime/CameraRenderer.cs using Guid(3c738f303cceaad4981c447dff5b7ec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '221f2a9df6822ce06f490febf5f60b79') in 0.017567 seconds
+  Import took 0.019210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.730401 seconds.
+  path: Assets/CustomRP/Runtime/CameraRenderer.Editor.cs
+  artifactKey: Guid(e638d18945f167744bc8c15ea0436912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Runtime/CameraRenderer.Editor.cs using Guid(e638d18945f167744bc8c15ea0436912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b94f45bac71f4e4164adc0aad37bf61b') in 0.001990 seconds
+  Import took 0.003679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.882421 seconds.
+  path: Assets/CustomRP/Runtime/CustomRenderPipeline.cs
+  artifactKey: Guid(202b729131fbe7a41a3a821ff5d5c4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Runtime/CustomRenderPipeline.cs using Guid(202b729131fbe7a41a3a821ff5d5c4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a4ad407ee613da24588cb7450b13d57') in 0.002110 seconds
+  Import took 0.003707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.108556 seconds.
+  path: Assets/CustomRP/Editor/CustomShaderGUI.cs
+  artifactKey: Guid(b9b3ff998d195ab4ebea4d97c0a333aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Editor/CustomShaderGUI.cs using Guid(b9b3ff998d195ab4ebea4d97c0a333aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfe6377b2ae6c9f648a015430d6c8ba1') in 0.002035 seconds
+  Import took 0.003604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.787073 seconds.
+  path: Assets/CustomRP/Runtime/Lighting.cs
+  artifactKey: Guid(e7b6c8cbaefbee14dad19d910c99a277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Runtime/Lighting.cs using Guid(e7b6c8cbaefbee14dad19d910c99a277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9176fee7e43568e71598da0afc5fa4be') in 0.002684 seconds
+  Import took 0.004303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.087782 seconds.
+  path: Assets/CustomRP/Examples/MeshBall.cs
+  artifactKey: Guid(fb87af560ab85c5499099d794d0d4d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Examples/MeshBall.cs using Guid(fb87af560ab85c5499099d794d0d4d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31cf47c423ae0052f096ea1a18a61c66') in 0.002013 seconds
+  Import took 0.003651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.826549 seconds.
+  path: Assets/CustomRP/Examples/PerObjectMaterialProperties.cs
+  artifactKey: Guid(567d30ddbc196b241a3f50699801ed6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Examples/PerObjectMaterialProperties.cs using Guid(567d30ddbc196b241a3f50699801ed6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '503fbd6f33e40e53573c8cc632041ee9') in 0.002139 seconds
+  Import took 0.003847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 636.756299 seconds.
+  path: Assets/CustomRP/Shaders/Lit.shader
+  artifactKey: Guid(fa5b56141da4b4c4191f4893a0122217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Shaders/Lit.shader using Guid(fa5b56141da4b4c4191f4893a0122217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb106ef4b6b40618b2b48772f1543c90') in 0.010896 seconds
+  Import took 0.012804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.226416 seconds.
+  path: Assets/CustomRP/Shaders/LitPass.hlsl
+  artifactKey: Guid(5095484dac32ed64dafa5b7bf1ccf577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomRP/Shaders/LitPass.hlsl using Guid(5095484dac32ed64dafa5b7bf1ccf577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e600384188083edaa2e20fdf44d283c6') in 0.012405 seconds
+  Import took 0.014079 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
